@@ -1,3 +1,3 @@
 # basic-quiz
 A very basic quiz built using Arrays <br>
-![Screenshots](Screenshot-quiz.png)
+![Screenshots](Screenshot-quiz2.png)
